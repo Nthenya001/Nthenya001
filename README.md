@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nthenya001
-- 👀 I’m interested in web dev, data science and machine learning
-- 🌱 I’m currently learning python for data science
+- 👀 I’m interested in web dev and app dev
+- 🌱 I’m currently learning flutter for app development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me just follow me
 
