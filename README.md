@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faith Jacob</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Angualar and Tailwind**
+- 🌱 I’m currently learning **Angular and Tailwind**
 
 - 💬 Ask me about **react, vue**
 
